@@ -1,0 +1,3 @@
+C:/Users/Asus/source/repos/seaView/SeaView/Build/CMakeFiles/SeaView.dir
+C:/Users/Asus/source/repos/seaView/SeaView/Build/CMakeFiles/edit_cache.dir
+C:/Users/Asus/source/repos/seaView/SeaView/Build/CMakeFiles/rebuild_cache.dir
